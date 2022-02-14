@@ -1,0 +1,17 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-SpringbootApplication<springboot>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.tutorials.springboot.SpringbootApplication",
+            "projectName": "springboot",
+            "args": "",
+            "env": {
+                "JAVA_TOOL_OPTIONS": "-Xmx8192m"
+            }
+        }
+    ]
+}

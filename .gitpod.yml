@@ -1,5 +1,5 @@
 image:
-  file: .gipod.Dockerfile
+  file: .gitpod.Dockerfile
 
 tasks:
   - init: pg_start

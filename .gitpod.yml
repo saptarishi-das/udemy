@@ -1,9 +1,6 @@
 image:
   file: .gitpod.Dockerfile
 
-tasks:
-  - init: pg_start
-
 ports:
   - port: 5432
     visibility: public

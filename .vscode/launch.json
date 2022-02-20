@@ -12,6 +12,26 @@
             "env": {
                 "JAVA_TOOL_OPTIONS": "-Xmx8192m"
             }
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-SpringbootjpaApplication<springbootjpa>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.tutorials.springbootjpa.springbootjpa.SpringbootjpaApplication",
+            "projectName": "springbootjpa",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-SpringbootjpaApplication<springbootjpa>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.tutorials.springbootjpa.SpringbootjpaApplication",
+            "projectName": "springbootjpa",
+            "args": ""
         }
     ]
 }
